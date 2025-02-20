@@ -338,11 +338,11 @@ hash = "07655d0c38744d77ea62d247199d9b39a35ee03358be99adbcdccd03016c1206"
 
 [[files]]
 file = "data/.rcon-cli.env"
-hash = "b7aa965124824e2d16c65063d27dc6e5d03dc2dfb89b80fa69626df061396c34"
+hash = "0423cbeafa332e8dd8d4d8ac3791d0f18b8f8369c32efd6ab8df7106dda2b5e0"
 
 [[files]]
 file = "data/.rcon-cli.yaml"
-hash = "e255f5eaeeac82d44170590f825fca648edf2ef16efbb4b664ca1e04fdd2b9c9"
+hash = "80ae95f0de41fc06917d2224a90e1d53b6b6a23e214aa1a577a15c95048cf14c"
 
 [[files]]
 file = "data/banned-ips.json"
@@ -354,7 +354,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "data/config/create-client.toml"
-hash = "db0674b3c5b5b38f38f32022b471c4d236b91e99e78ec5e823268ef7a06c1dfe"
+hash = "74dbce3a70ab7968720af1b138b93a2baef8d2c7e6bfa113f58735cfabb7310e"
 
 [[files]]
 file = "data/config/create-common.toml"
@@ -362,11 +362,11 @@ hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
 
 [[files]]
 file = "data/config/create-server.toml"
-hash = "5d95e8d508454bfee9141f79205dbd43c1341aa66c3962b7b7238cc67af587a4"
+hash = "45e7071444b687a5540c2bf7006166f00ada1979086a57a8d25d29a0ae36ca58"
 
 [[files]]
 file = "data/config/farmersdelight-common.toml"
-hash = "76aecd29d065d018c440e93bb107cfbf9793ca73b55e12afab63b17bce25dfb2"
+hash = "0896fb8afced09321bea12cb28cf60f5629175b550c433fec6801e42cf8d40a5"
 
 [[files]]
 file = "data/config/forgeconfigapiport.toml"
@@ -529,8 +529,12 @@ file = "data/libraries/org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar"
 hash = "b36b99b8d99ea7857554d9b25dfdbd1fb25378c926f7b9e0249983c99335b2c4"
 
 [[files]]
+file = "data/logs/2025-02-20-1.log.gz"
+hash = "6af70b505cc46febbbaa48907c096a57cc0ed02a0cfd0b922e285027319bc5ad"
+
+[[files]]
 file = "data/logs/latest.log"
-hash = "82551cc87f7d8ce10f7eaded4d83eb349f8633686b468bbfacfc1af28d127578"
+hash = "1e319e5000c8b77b9c43121a2c42f1bc6659b967935d2dd2226d25d328072b0b"
 
 [[files]]
 file = "data/mods/FarmersDelight-1.20.1-2.3.0+refabricated.jar"
@@ -550,7 +554,7 @@ hash = "6afc625670946c1ef6c77618bf686d893aea6d39ba190d4cdc4b2cd878421b4e"
 
 [[files]]
 file = "data/ops.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+hash = "cb1390e0e298165638abd33441854276622a271eae85a6f2e0aa961c352cad69"
 
 [[files]]
 file = "data/packwiz-installer-v0.5.14-dist.jar"
@@ -562,11 +566,15 @@ hash = "a50de8a664563af2bc532e22f1537ea67e11cfce1312f6a78ed265f8dd166bdc"
 
 [[files]]
 file = "data/server.properties"
-hash = "5917934463b874d490017f7af310f176092ad4657429fa04071b5eae9a75d85f"
+hash = "3e7d9f0694198b7b2eb3947e2420c21d47e51ffa351e91b46e4171f6105f6922"
 
 [[files]]
 file = "data/usercache.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+hash = "836c344d25c0f74b6e2ae2937ef516ef32b04b3fcde13ea5781b6d52d1538881"
+
+[[files]]
+file = "data/usernamecache.json"
+hash = "d148f7a0e29051b4702805b82a012124f6fea440601e606a70bc2e56732732c0"
 
 [[files]]
 file = "data/versions/1.20.1/server-1.20.1.jar"
@@ -578,67 +586,111 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "data/world/DIM-1/data/raids.dat"
-hash = "e811edc822f595806aa5a76c05daa13e84e6af34b4e727f1fe74b455df5ccfc8"
+hash = "bfebc3bea33afb23ba714bb231fe84b7c7552937b922453c33b7d4714cddfe74"
 
 [[files]]
 file = "data/world/DIM1/data/raids_end.dat"
-hash = "e811edc822f595806aa5a76c05daa13e84e6af34b4e727f1fe74b455df5ccfc8"
+hash = "bfebc3bea33afb23ba714bb231fe84b7c7552937b922453c33b7d4714cddfe74"
+
+[[files]]
+file = "data/world/advancements/b04605a7-e4f9-49c5-a017-17f6985bbe74.json"
+hash = "7341d15d2d4dcae0a48f1b3a83b4045b6a70fdd1a22408467f95a0b3117f6472"
 
 [[files]]
 file = "data/world/data/fabricRegistry.dat"
 hash = "f6b74600cd9a694816e7752b623e834fe4c84e574198eb18985105f0e5f15a10"
 
 [[files]]
+file = "data/world/data/fabricRegistry.dat.1"
+hash = "f6b74600cd9a694816e7752b623e834fe4c84e574198eb18985105f0e5f15a10"
+
+[[files]]
 file = "data/world/data/raids.dat"
-hash = "e811edc822f595806aa5a76c05daa13e84e6af34b4e727f1fe74b455df5ccfc8"
+hash = "bfebc3bea33afb23ba714bb231fe84b7c7552937b922453c33b7d4714cddfe74"
 
 [[files]]
 file = "data/world/data/random_sequences.dat"
-hash = "3f8b87f8064deee0e4cdb5f1f90397f7a5fafac19bd090b381af3e255f55e8b8"
+hash = "bec353d7fd1da0c265f5260d2512e1539a1e49895e36c9495a0a045127512850"
 
 [[files]]
 file = "data/world/entities/r.-1.0.mca"
-hash = "94ac4d05ac6cb8a2d889775a0dfabfe4d44e3d5bc155e8d7f7212c4e3183c565"
+hash = "333d97a1f00a4e3a0db3bf2f17efde10282f09e59140a5e74292a1079a654d59"
 
 [[files]]
 file = "data/world/entities/r.-1.1.mca"
-hash = "d00cb10601e81a3931523e120a80ee287a4b5b067f1acecd4eca8e8f5d78a6f1"
+hash = "09a267c5fca9dffe1ea8bdb8a204cd79fb3743fbda7158cc100ce4053cfeb96d"
 
 [[files]]
 file = "data/world/entities/r.0.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "843aee1a6464af0689fd31f6677caab928ccc27e8e2a5422449d037c1d82f778"
 
 [[files]]
 file = "data/world/entities/r.0.1.mca"
-hash = "4f6e61d79a63a2b7c558ba77f50f0bd70a9cb239077ed97a8a196474b310c63b"
+hash = "db9ee6046ada1974a477f4b5389c962ebca82919680c7e9a359a5c34c9de1e2b"
 
 [[files]]
 file = "data/world/level.dat"
-hash = "481842d11e01ff9436fa1a45cfdf813c198151e5a6b158854ca1ef56f56f59b4"
+hash = "4e47bda2c864c45bdb0140f3dcec2f826f678706500e287fa552d6061e0e46fb"
 
 [[files]]
 file = "data/world/level.dat_old"
-hash = "592203f6292a56d2f5e64ae88d96a20539d49de9db069e5179fa96b57705321d"
+hash = "d31e45afbfb7f2a8af9084837bc59b48651694a545c91708333ba9c51d45b695"
+
+[[files]]
+file = "data/world/playerdata/b04605a7-e4f9-49c5-a017-17f6985bbe74.dat"
+hash = "2e35f92a6a91c0ea59877a45999052dcfc83bf855e14aab4c425f107f043465f"
+
+[[files]]
+file = "data/world/poi/r.-1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "data/world/poi/r.-1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "data/world/poi/r.-2.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "data/world/poi/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "data/world/poi/r.0.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "data/world/region/r.-1.0.mca"
-hash = "26b6d7cdbb771bc97e58418854f7f422f6bf185ca767d8b2b4e8faeb717a5095"
+hash = "0fb632da726e0ebb34023a4adaac95d012b42c8f1d645bed7239856ddd301e5f"
 
 [[files]]
 file = "data/world/region/r.-1.1.mca"
-hash = "0e7fbdaa06b412cad1ab3fd0ba6196c29bf8b71d05fe1c95255cce1e4e6a1168"
+hash = "a51dbff767f9df8795b7cb3da5be788df70f6e159f9bf7ac6d1d89b27a079924"
+
+[[files]]
+file = "data/world/region/r.-2.0.mca"
+hash = "b38f7ad4a98d13111ef77c8c7e02b94e0d5573e426cc842d297eddb6b67aa584"
+
+[[files]]
+file = "data/world/region/r.-2.1.mca"
+hash = "0491089edb8bb0c2376953703e6d43d09eb84f4bc3c6a87fafa55d2a9f4a30fc"
 
 [[files]]
 file = "data/world/region/r.0.0.mca"
-hash = "0462c1019720c8bea6bb885d71a6ef6af50d74ccd1c695ef169bf881e42dfa92"
+hash = "beeca9c6b371d4b7af96124b225b4d94e3c3c86061526812883f63f995f4bf6e"
 
 [[files]]
 file = "data/world/region/r.0.1.mca"
-hash = "4329146d4b46ebe6a15ff4ea78564b42b86312f590b97bd8088c3989ed4acbac"
+hash = "510dfdf967d1710f59dce3256966c7a3fd5ee8c55082ac55177c4caa5d5b74b7"
 
 [[files]]
 file = "data/world/session.lock"
 hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+
+[[files]]
+file = "data/world/stats/b04605a7-e4f9-49c5-a017-17f6985bbe74.json"
+hash = "9c44592a89f5a6547a1277ef6727dcd0bf65d622254b76fcaf40215b2b53d7cb"
 
 [[files]]
 file = "mods/create-deco.pw.toml"

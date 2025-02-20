@@ -31,6 +31,11 @@ hash = "48b7bf8cff4f625864347ac4de0311b50fd867da54cf732d51b165b09a1b2af3"
 metafile = true
 
 [[files]]
+file = "mods/enchant-tweaker.pw.toml"
+hash = "627acbc1c290e5b1950ef60be450d0fe79b00c31f549cad604eb993c396cf53c"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "724f38446c3830230388cec99fed286ff1e8580f0a82c1466c7d59bde4450c71"
 metafile = true

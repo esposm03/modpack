@@ -106,6 +106,11 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "ba5ff18e27aa4a5ef3cc763c0f17178c57a916b183035678715ff0fa3f6fee6b"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "3850ba97b0333e8a93577e2d6352659e63bdefa295c704b18431ae233b6040e8"
 metafile = true
 
 [[files]]
